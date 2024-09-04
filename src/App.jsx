@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <main>
-      <p>Lunacal</p>
+      <p className="text-3xl font-bold underline">Lunacal</p>
     </main>
   );
 }
